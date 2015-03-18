@@ -26,7 +26,7 @@ qDBFQ <- function(theTFQ, theFFQ, theMFQ){
     theTFQ <- allCapFQ(theTFQ)
   }else blnk <- blnk + 0
 
-  hostFQ <- "@@@@@@@@@@.mongolab.com:43991"
+  hostFQ <- "@@@@@@@@@@.mongolab.com:@@@@@@@@@@"
   unFQ <- "@@@@@@@@@@"
   pwFQ <- "@@@@@@@@@@"
   dbFQ <- "funguild_db"
