@@ -9,7 +9,7 @@ emailSenderFE <- function(msgOneFE, emSubmitterFE, msgTwoFE) {
 
 insertDBFE <- function(taxonDBFE, taxLevelDBFE, trophModeDBFE, guildDBFE, conRankDBFE, growMorphDBFE, traitDBFE, notesDBFE, citationDBFE){
   
-  hostFE <- "@@@@@@@@@.mongolab.com:43991"
+  hostFE <- "@@@@@@@@@.mongolab.com:@@@@@@@@@"
   unFE <- "@@@@@@@@@"
   pwFE <- "@@@@@@@@@"
   dbFE <- "funguild_db"
